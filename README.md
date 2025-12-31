@@ -1,5 +1,20 @@
-## Hi there 👋
+# Hi, I'm Cagatay Sahin 👋
 
+**Computer Engineering Student (3rd Year)** 🚀  
+Passionate about building clean, efficient, and scalable software.
+
+---
+
+### 🛠 Tech Stack
+- **Languages:** `C++`, `Java`, `PHP`
+- **Web:** `HTML`, `CSS`, `JavaScript`
+
+---
+
+### 📫 Reach Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cagataysahin10/) 
+
+---
 <!--
 **CgtyShn10/CgtyShn10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +28,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+---
