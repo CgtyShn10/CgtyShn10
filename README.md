@@ -1,31 +1,19 @@
-# Hi, I'm Cagatay Sahin 👋
+# Hey there! 👋
 
-**Computer Engineering Student (3rd Year)** 🚀  
-Passionate about building clean, efficient, and scalable software.
+I'm **Cagatay Sahin**, a **Computer Engineering student** (3rd year).
 
----
+I focus on developing software and learning new ways to solve problems through code. Currently, I am working on improving my skills in software architecture and full-stack development.
 
-### 🛠 Tech Stack
-- **Languages:** `C++`, `Java`, `PHP`
-- **Web:** `HTML`, `CSS`, `JavaScript`
+My main tech stack includes **HTML, CSS, JavaScript, PHP, Java, Database and C++**. I enjoy experimenting with these tools to build functional projects.
 
----
-
-### 📫 Reach Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cagataysahin10/) 
+If you want to collaborate or just say hi, you can reach me through the link below!
 
 ---
-<!--
-**CgtyShn10/CgtyShn10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+* **LinkedIn:** [Cagatay Sahin | Linkedln](https://www.linkedin.com/in/cagataysahin10/) 
+
+
 ---
+*“Building things, one line of code at a time.”*
