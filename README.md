@@ -1,19 +1,58 @@
-# Hey there! 👋
+<h1 align="left">Hi👋 I'm Cagatay</h1>
 
-I'm **Cagatay Sahin**, a **Computer Engineering student** (3rd year).
+###
+<h2 align="left">About me</h2>
 
-I focus on developing software and learning new ways to solve problems through code. Currently, I am working on improving my skills in software architecture and full-stack development.
+<img align="right" height="200" src="https://i.pinimg.com/1200x/2a/ca/5f/2aca5fff26731d2d17bdb8f35f6846fb.jpg" />
 
-My main tech stack includes **HTML, CSS, JavaScript, PHP, Java, Database and C++**. I enjoy experimenting with these tools to build functional projects.
+<p align="left">
+  I'm Cagatay Sahin and I'm from Turkıye. I'm a Computer Engineering student (3rd year).<br><br>
+  I focus on developing software and learning new ways to solve problems through code. Currently, I am working on improving my skills in software architecture and full-stack development.
+</p>
 
-If you want to collaborate or just say hi, you can reach me through the link below!
-
----
-
-### Connect with me:
-
-* **LinkedIn:** [Cagatay Sahin | Linkedln](https://www.linkedin.com/in/cagataysahin10/) 
+<br clear="both" />
 
 
----
-*“Building things, one line of code at a time.”*
+###
+
+<h2 align="left">Skills</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CgtyShn10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CgtyShn10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+
+###
+
+<h2 align="left">Contact me:</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/%C3%A7a%C4%9Fatay-%C5%9Fahin-5a5aa9369/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
