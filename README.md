@@ -3,14 +3,11 @@
 ###
 <h2 align="left">About me</h2>
 
-<img align="right" height="200" src="https://i.pinimg.com/1200x/2a/ca/5f/2aca5fff26731d2d17bdb8f35f6846fb.jpg" />
-
 <p align="left">
   I'm Cagatay Sahin and I'm from Turkıye. I'm a Computer Engineering student (3rd year).<br><br>
   I focus on developing software and learning new ways to solve problems through code. Currently, I am working on improving my skills in software architecture and full-stack development.
 </p>
 
-<br clear="both" />
 
 
 ###
